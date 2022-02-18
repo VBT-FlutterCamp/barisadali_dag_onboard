@@ -1,9 +1,7 @@
 # onboarding_covid
 
-A new Flutter project.
+![](assets/images/screen1.png ) ![](assets/images/screen2.png) ![](assets/images/screen3.png)
 
-## Getting Started
 
-❮img src="assets/images/screen1.png" ❯
-❮img src="assets/images/screen2.png" ❯
-❮img src="assets/images/screen3.png" ❯
+
+
